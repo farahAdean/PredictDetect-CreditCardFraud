@@ -1,7 +1,7 @@
 # PredictDetect-CreditCardFraud
 Using Machine Learning to predict credit card fraud (University Project)
 
-File Location to download csv file: https://drive.google.com/file/d/1Ee_FRtZj0kbhZu-Otx-LTwzlSX0uzcAN/view?usp=sharing
+File Location to download csv file: https://www.kaggle.com/mlg-ulb/creditcardfraud
 
 REFERENCES
 
